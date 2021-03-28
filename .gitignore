@@ -1,0 +1,11 @@
+Demo/**
+demo1/**
+lucene-query/**
+multithreading/**
+my-first-java-app/**
+struts-app/**
+java-8-features/bin/**
+java-8-features/*.classpath
+java-8-features/*.project
+*.settings/**
+.metadata/**
