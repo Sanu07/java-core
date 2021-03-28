@@ -1,0 +1,31 @@
+*************************************************************
+******* Solution reference com.java.solution package ********
+*************************************************************
+#1. count all employees.
+#2. print all distinct employees
+#3. Increase the salary for every employees by Rs 10 and then print all the employees.
+#4. print only the firstname of the employees
+#5. print firstname and lastname of all the employees in uppercase
+#6. print distinct first & last name along with their organization names and joining date 
+	in ascending order of the joining date
+	e.g Lionel Messi TCS 1/10/2004 IBM 1/10/2011
+#7. print distinct firstname and their duration of work in their first organisation
+	e.g Lionel TCS 7 // Lionel worked in TCS for 7 yrs
+#8. print the employee name and country whose zip code has all digits same.
+#9 print the name of the employee whose adress details is same
+#10 group and display all the employees' distinct firstname based on their country.
+	e.g USA -> Lionel, Ronaldinho
+#11. count how many employees are there in each city.
+	e.g USA -> 3
+#12. print all the employees in ascending order based on their first name, then lastname
+#13. print all the employees in ascending order based on their zipcode
+#14. print all the employees in ascending order based on their joining date
+#15. print all employees who work in TCS
+#16. print all employees whose first company was CTS
+#17. print all employees joining date was after 2015
+#18. print the employee details of the employee who comes at the last after arranging all the employees 
+	based on their joining date.
+#19. find the total sum of the salaries for all the distinct employees who are working currently in TCS.
+#20. Find max and min salaries from each of the individual countries USA, CAN, IN
+#21. Find the count of the employees whose lastname is same
+#22. find all the distinct employees who has worked or working in any org whose name has "C" in it.
