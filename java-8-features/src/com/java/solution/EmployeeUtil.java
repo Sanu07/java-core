@@ -62,6 +62,10 @@ class Organization {
 		this.name = name;
 		this.joiningDate = joiningDate;
 	}
+	
+	public Organization() {
+		super();
+	}
 	@Override
 	public int hashCode() {
 		final int prime = 31;
