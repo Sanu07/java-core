@@ -9,3 +9,4 @@ bin
 *.project
 *.settings/**
 .metadata/**
+/.metadata/
