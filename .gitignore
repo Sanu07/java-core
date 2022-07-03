@@ -10,3 +10,7 @@ bin
 *.settings/**
 .metadata/**
 /.metadata/
+*.jar
+java-8-features/.classpath
+*.prefs
+java-8-features/.classpath
