@@ -14,3 +14,16 @@ bin
 java-8-features/.classpath
 *.prefs
 java-8-features/.classpath
+.idea/java-core.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+java-8-features/.idea/dbnavigator.xml
+java-8-features/.idea/misc.xml
+java-8-features/.idea/vcs.xml
+java-leetcode/.idea/dbnavigator.xml
+java-leetcode/.idea/misc.xml
+java-leetcode/.idea/modules.xml
+java-leetcode/.idea/uiDesigner.xml
+java-leetcode/java-leetcode.iml
