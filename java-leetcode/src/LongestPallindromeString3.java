@@ -37,7 +37,8 @@ public class LongestPallindromeString3 {
         List<String> list4 = List.of("Image Only", "Text Only", "Text with Image");
         List<String> list5 = List.of("SME", "Student", "Teacher");
         List<String> list6 = List.of("AI", "SME", "Teacher");
-        list6.forEach(e -> {
+        List<String> list7 = List.of("Academic", "Non-Academic");
+        list7.forEach(e -> {
             String lowerValue = e.toLowerCase().replaceAll("\\s", "-");
             System.out.print(e + "    " + lowerValue + "    " + UUID.nameUUIDFromBytes(lowerValue.getBytes()));
             System.out.println();
