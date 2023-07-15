@@ -1,4 +1,4 @@
-public class Power102 {
+public class P102Power {
     public static void main(String[] args) {
         int x = 3;
         int n = 3;

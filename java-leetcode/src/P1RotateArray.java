@@ -1,6 +1,6 @@
 import java.util.Arrays;
 // Rotate an array of n elements to the right by k
-public class RotateArray1 {
+public class P1RotateArray {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5, 6, 7};
         int k = 3;

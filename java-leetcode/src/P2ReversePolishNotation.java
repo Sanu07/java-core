@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class ReversePolishNotation2 {
+public class P2ReversePolishNotation {
 
     public static void main(String[] args) {
         String[] str1 = {"2", "1", "+", "3", "*"}; // ((2 + 1) * 3) -> 9

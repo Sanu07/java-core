@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSum11 {
+public class P11TwoSum {
 
     public static void main(String[] args) {
         int[] arr = {2, 6, 11, 7};

@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class WordBreak4 {
+public class P4WordBreak {
 
     public static void main(String[] args) {
         String s = "leetcode";
