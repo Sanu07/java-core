@@ -1,3 +1,5 @@
+package com.pdf.problems;
+
 public class P3LongestPallindromeString {
     public static void main(String[] args) {
 

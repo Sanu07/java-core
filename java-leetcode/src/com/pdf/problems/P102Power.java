@@ -1,3 +1,5 @@
+package com.pdf.problems;
+
 public class P102Power {
     public static void main(String[] args) {
         int x = 3;

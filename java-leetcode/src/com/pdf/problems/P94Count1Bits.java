@@ -1,3 +1,5 @@
+package com.pdf.problems;
+
 public class P94Count1Bits {
     public static void main(String[] args) {
         // int n = 11; // 1101

@@ -1,3 +1,5 @@
+package com.pdf.problems;
+
 import java.util.Arrays;
 // Rotate an array of n elements to the right by k
 public class P1RotateArray {

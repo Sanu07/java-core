@@ -1,3 +1,5 @@
+package com.pdf.problems;
+
 public class P101Pallindrome {
     public static void main(String[] args) {
         int x = 14491;

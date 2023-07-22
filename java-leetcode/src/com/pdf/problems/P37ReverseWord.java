@@ -1,3 +1,5 @@
+package com.pdf.problems;
+
 public class P37ReverseWord {
     public static void main(String[] args) {
         String s = "the sky is blue";
