@@ -40,13 +40,6 @@ public class M7FindLargestSubArrayWith0and1 {
         for (int i = 0; i < arr.length; i++) {
             currSum += arr[i];
 
-            if (currSum == 0) {
-                if (max < i - map.get(currSum)) {
-                    max = i - map.get(currSum);
-                    end = i;
-                }
-            }
-
             if (map.containsKey(currSum)) {
                 if (max < i - map.get(currSum)) {
                     max = i - map.get(currSum);
