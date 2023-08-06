@@ -15,15 +15,14 @@ import java.util.Scanner;
 public class BTImplementation {
 
 
-    private static Scanner sc = null;
+    private static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        sc = new Scanner(System.in);
         final Node node = createTree();
         System.out.println(node);
     }
 
-    private static Node createTree() {
+    public static Node createTree() {
 
         System.out.println("Data : ");
         final int data = sc.nextInt();
