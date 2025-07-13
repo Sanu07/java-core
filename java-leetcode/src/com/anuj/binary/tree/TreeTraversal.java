@@ -9,6 +9,7 @@ public class TreeTraversal {
         postOrder(root);
     }
 
+    // N L R
     public static void preOrder(Node root) {
         if (root == null) return;
 
